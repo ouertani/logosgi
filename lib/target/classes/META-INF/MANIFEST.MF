@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Export-Package: com.jtunisie.osgi.logger
+Private-Package: com.jtunisie.osgi.logger.impl
+Built-By: slim
+Tool: Bnd-0.0.238
+Bundle-Name: logger
+Created-By: Apache Maven Bundle Plugin
+Bundle-Version: 1.0.0.O
+Build-Jdk: 1.6.0_10-rc2
+Bnd-LastModified: 1223816403197
+Bundle-ManifestVersion: 2
+Import-Package: com.jtunisie.osgi.logger,org.osgi.framework;version="1
+ .3"
+Bundle-SymbolicName: com.jtunisie.osgi.logger
+
