@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Private-Package: com.jtunisie.osgi.logger.client
+Built-By: slim
+Build-Jdk: 1.6.0_10-rc2
+Bundle-Version: 1.0.0.O
+Tool: Bnd-0.0.238
+Bundle-Name: client1
+Bnd-LastModified: 1223817204437
+Created-By: Apache Maven Bundle Plugin
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.jtunisie.osgi.client1
+Import-Package: com.jtunisie.osgi.logger,org.springframework.osgi.exte
+ nsions.annotation;version="1.1"
+
