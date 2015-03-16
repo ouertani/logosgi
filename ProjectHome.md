@@ -1,0 +1,1 @@
+logger the same bundle and class with different version with different logger Levels
